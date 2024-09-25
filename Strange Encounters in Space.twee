@@ -1,0 +1,22 @@
+:: StoryTitle
+Strange Encounters in Space
+
+
+:: StoryData
+{
+  "ifid": "047C8DD9-84BE-41C2-9A16-19D2E9DD2C8D",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Could this really be Earth!? {"position":"800,450","size":"100,100"}
+This sure is a strange planet! It can't possibly be Earth. I must have gotten mixed up on my way here.
+
+
+:: Untitled Passage {"position":"800,325","size":"100,100"}
+As soon as the hatch of your ship, the Coriolis, opens, you see the creatures swarming around you. There are many of them, more than you can easily count, and they are all continuously in motion.
+
+[[Could this really be Earth!?]]
